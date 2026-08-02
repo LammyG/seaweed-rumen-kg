@@ -1,0 +1,13 @@
+threshold,class,n_edges,n_decrease,n_no_change,n_increase,total_edges
+0.7,Bromoform/Halogenated,208,306,54,135,513
+0.7,Phlorotannin/Polyphenol,201,306,54,135,513
+0.7,Peptide/Hydrolysate,0,306,54,135,513
+0.7,Mixed/Other,104,306,54,135,513
+0.8,Bromoform/Halogenated,191,263,40,116,428
+0.8,Phlorotannin/Polyphenol,165,263,40,116,428
+0.8,Peptide/Hydrolysate,0,263,40,116,428
+0.8,Mixed/Other,72,263,40,116,428
+0.9,Bromoform/Halogenated,79,81,12,27,122
+0.9,Phlorotannin/Polyphenol,34,81,12,27,122
+0.9,Peptide/Hydrolysate,0,81,12,27,122
+0.9,Mixed/Other,9,81,12,27,122

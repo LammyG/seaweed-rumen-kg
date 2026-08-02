@@ -1,0 +1,235 @@
+node_name,node_type,external_id,external_url,database,match_strategy
+Spirogyra maxima,plant_species,3180.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3180,NCBI Taxonomy,Spirogyra maxima
+Montia australasica,plant_species,384566.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=384566,NCBI Taxonomy,Montia australasica
+Ascophyllum nodosum,plant_species,52969.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52969,NCBI Taxonomy,Ascophyllum nodosum
+Laminaria digitata,plant_species,80365.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=80365,NCBI Taxonomy,Laminaria digitata
+Asparagopsis taxiformis,plant_species,260499.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=260499,NCBI Taxonomy,Asparagopsis taxiformis
+Palmaria mollis,plant_species,700711.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=700711,NCBI Taxonomy,Palmaria mollis
+Mazzaella japonica,plant_species,95356.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=95356,NCBI Taxonomy,Mazzaella japonica
+Methanogens,rumen_archaea,,,NCBI Taxonomy,
+Fibrobacter,rumen_bacteria,832.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=832,NCBI Taxonomy,Fibrobacter
+Ruminococcus,rumen_bacteria,1263.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1263,NCBI Taxonomy,Ruminococcus
+Prevotella,rumen_bacteria,838.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=838,NCBI Taxonomy,Prevotella
+Bifidobacterium,rumen_bacteria,1678.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1678,NCBI Taxonomy,Bifidobacterium
+Succinivibrio,rumen_bacteria,83770.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=83770,NCBI Taxonomy,Succinivibrio
+Ruminobacter,rumen_bacteria,866.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=866,NCBI Taxonomy,Ruminobacter
+unclassified Lachnospiraceae,rumen_bacteria,186928.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=186928,NCBI Taxonomy,unclassified Lachnospiraceae
+Ecklonia stolonifera,plant_species,2748384.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2748384,NCBI Taxonomy,Ecklonia stolonifera
+ciliate-associated methanogen,rumen_archaea,,,NCBI Taxonomy,
+Fibrobacter succinogenes,rumen_bacteria,833.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=833,NCBI Taxonomy,Fibrobacter succinogenes
+Ruminococcus flavefaciens,rumen_bacteria,1265.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1265,NCBI Taxonomy,Ruminococcus flavefaciens
+Asparagopsis armata,plant_species,31367.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31367,NCBI Taxonomy,Asparagopsis armata
+Bonnemaisonia hamifera,plant_species,31369.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31369,NCBI Taxonomy,Bonnemaisonia hamifera
+Dictyota bartayresii,plant_species,672008.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=672008,NCBI Taxonomy,Dictyota bartayresii
+Cystoseira trinodis,plant_species,1197255.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1197255,NCBI Taxonomy,Cystoseira trinodis
+Himanthalia elongata,plant_species,74478.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=74478,NCBI Taxonomy,Himanthalia elongata
+Laminaria japonica Aresch,plant_species,88149.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=88149,NCBI Taxonomy,Laminaria japonica
+Porphyra tenera,plant_species,2785.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2785,NCBI Taxonomy,Porphyra tenera
+propionate/butyrate-producing bacteria,rumen_bacteria,629395.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=629395,NCBI Taxonomy,propionate/butyrate-producing bacteria
+Amphiroa anceps,plant_species,1034373.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1034373,NCBI Taxonomy,Amphiroa anceps
+Chondracanthus tenellus,plant_species,95350.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=95350,NCBI Taxonomy,Chondracanthus tenellus
+Grateloupia elliptica,plant_species,118371.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=118371,NCBI Taxonomy,Grateloupia elliptica
+Gracilaria parvispora,plant_species,448387.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=448387,NCBI Taxonomy,Gracilaria parvispora
+Methanobrevibacter,rumen_archaea,2172.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2172,NCBI Taxonomy,Methanobrevibacter
+total methanogens,rumen_archaea,,,NCBI Taxonomy,
+Succinivibrionaceae,rumen_bacteria,83763.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=83763,NCBI Taxonomy,Succinivibrionaceae
+Anaeroplasma,rumen_bacteria,2086.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2086,NCBI Taxonomy,Anaeroplasma
+Ruminococcaceae,rumen_bacteria,216572.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=216572,NCBI Taxonomy,Ruminococcaceae
+Asparagopsis,plant_species,31366.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31366,NCBI Taxonomy,Asparagopsis
+Ulva sp.,plant_species,2812607.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2812607,NCBI Taxonomy,Ulva sp.
+Sargassum horneri,plant_species,74089.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=74089,NCBI Taxonomy,Sargassum horneri
+Duodenibacillus sp.,rumen_bacteria,1980700.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1980700,NCBI Taxonomy,Duodenibacillus sp.
+Fucus vesiculosus,plant_species,49266.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49266,NCBI Taxonomy,Fucus vesiculosus
+Alaria esculenta,plant_species,2889.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2889,NCBI Taxonomy,Alaria esculenta
+Chondrus crispus,plant_species,2769.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2769,NCBI Taxonomy,Chondrus crispus
+Sargassum fusiforme,plant_species,590727.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=590727,NCBI Taxonomy,Sargassum fusiforme
+Sargassum fulvellum,plant_species,3016.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3016,NCBI Taxonomy,Sargassum fulvellum
+Undaria pinnatifida,plant_species,74381.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=74381,NCBI Taxonomy,Undaria pinnatifida
+Butyrivibrio fibrisolvens,rumen_bacteria,831.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=831,NCBI Taxonomy,Butyrivibrio fibrisolvens
+Prevotella ruminicola,rumen_bacteria,838.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=838,NCBI Taxonomy,Prevotella
+methanogenic archaea,rumen_archaea,2157.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2157,NCBI Taxonomy,methanogenic archaea
+ciliate protozoa,rumen_protozoa,,,NCBI Taxonomy,
+Methanococcus maripaludis,rumen_archaea,39152.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39152,NCBI Taxonomy,Methanococcus maripaludis
+Methanobrevibacter ruminantium,rumen_archaea,83816.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=83816,NCBI Taxonomy,Methanobrevibacter ruminantium
+Pelvetia canaliculata,plant_species,74467.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=74467,NCBI Taxonomy,Pelvetia canaliculata
+Cystoseira tamariscifolia,plant_species,2771340.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2771340,NCBI Taxonomy,Cystoseira tamariscifolia
+Bifurcaria bifurcata,plant_species,74462.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=74462,NCBI Taxonomy,Bifurcaria bifurcata
+Ulva intestinalis,plant_species,3116.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3116,NCBI Taxonomy,Ulva intestinalis
+Enteromorpha prolifera,plant_species,3117.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3117,NCBI Taxonomy,Enteromorpha prolifera
+Sargassum serratum,plant_species,3015.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3015,NCBI Taxonomy,Sargassum
+Laurencia tristicha,plant_species,51606.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=51606,NCBI Taxonomy,Laurencia tristicha
+Lachnospiraceae_UCG-008,rumen_bacteria,,,NCBI Taxonomy,
+Papillibacter,rumen_bacteria,100175.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=100175,NCBI Taxonomy,Papillibacter
+UCG_004,rumen_bacteria,,,NCBI Taxonomy,
+Butyrivibrio,rumen_bacteria,830.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=830,NCBI Taxonomy,Butyrivibrio
+UCG_002,rumen_bacteria,,,NCBI Taxonomy,
+Anaerovibrio,rumen_bacteria,82373.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=82373,NCBI Taxonomy,Anaerovibrio
+Family_XIII_AD3011,rumen_bacteria,,,NCBI Taxonomy,
+Mogibacterium,rumen_bacteria,86331.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=86331,NCBI Taxonomy,Mogibacterium
+Kappaphycus alvarezii,plant_species,38544.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=38544,NCBI Taxonomy,Kappaphycus alvarezii
+Sargassum wightii,plant_species,1442163.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1442163,NCBI Taxonomy,Sargassum wightii
+Acanthophora specifera,plant_species,385023.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=385023,NCBI Taxonomy,Acanthophora
+Padina gymnospora,plant_species,439534.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=439534,NCBI Taxonomy,Padina gymnospora
+Spyridia filamentosa,plant_species,196632.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=196632,NCBI Taxonomy,Spyridia filamentosa
+Entodinomorphs,rumen_protozoa,,,NCBI Taxonomy,
+sulfate-reducing microbes,rumen_bacteria,,,NCBI Taxonomy,
+Laurencia snackeyi,plant_species,1858662.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1858662,NCBI Taxonomy,Laurencia snackeyi
+Ecklonia cava,plant_species,105407.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=105407,NCBI Taxonomy,Ecklonia cava
+Ulva pertusa,plant_species,3120.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3120,NCBI Taxonomy,Ulva pertusa
+Gracilaria lemaneiformis,plant_species,2782.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2782,NCBI Taxonomy,Gracilaria lemaneiformis
+g_norank_f_Methanomethylophilaceae,rumen_archaea,,,NCBI Taxonomy,
+Kandleria,rumen_bacteria,1279388.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1279388,NCBI Taxonomy,Kandleria
+Asparagopsis taxiformis variety Brominata,plant_species,260499.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=260499,NCBI Taxonomy,Asparagopsis taxiformis
+Sargassum spp.,plant_species,3015.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3015,NCBI Taxonomy,Sargassum
+Prevotellaceae_UCG-001,rumen_bacteria,,,NCBI Taxonomy,
+Selenomonas,rumen_bacteria,970.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=970,NCBI Taxonomy,Selenomonas
+Methanosphaera,rumen_archaea,2316.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2316,NCBI Taxonomy,Methanosphaera
+Moryella,rumen_bacteria,437755.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=437755,NCBI Taxonomy,Moryella
+Eubacterium,rumen_bacteria,1730.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1730,NCBI Taxonomy,Eubacterium
+seaweed,plant_species,,,NCBI Taxonomy,
+Methanobrevibacter smithii,rumen_archaea,2173.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2173,NCBI Taxonomy,Methanobrevibacter smithii
+Methanosphaera stadtmanae,rumen_archaea,2317.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2317,NCBI Taxonomy,Methanosphaera stadtmanae
+Methanosarcina barkeri,rumen_archaea,2208.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2208,NCBI Taxonomy,Methanosarcina barkeri
+Methanobrevibacter millerae,rumen_archaea,230361.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=230361,NCBI Taxonomy,Methanobrevibacter millerae
+Methanothermobacter wolfei,rumen_archaea,145261.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=145261,NCBI Taxonomy,Methanothermobacter wolfei
+Methanobacterium mobile,rumen_archaea,2205.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2205,NCBI Taxonomy,Methanobacterium mobile
+Saccharina latissima,plant_species,309358.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=309358,NCBI Taxonomy,Saccharina latissima
+Porphyra spp.,plant_species,2784.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2784,NCBI Taxonomy,Porphyra
+Dictyota dichotoma,plant_species,2876.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2876,NCBI Taxonomy,Dictyota dichotoma
+Sargassum muticum,plant_species,74468.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=74468,NCBI Taxonomy,Sargassum muticum
+Delesseria sanguinea,plant_species,131097.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=131097,NCBI Taxonomy,Delesseria sanguinea
+Macrocystis pyrifera,plant_species,35122.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=35122,NCBI Taxonomy,Macrocystis pyrifera
+Ulva spp.,plant_species,3118.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3118,NCBI Taxonomy,Ulva
+Mazzaella spp.,plant_species,29228.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29228,NCBI Taxonomy,Mazzaella
+Firmicutes,rumen_bacteria,1783272.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1783272,NCBI Taxonomy,Firmicutes
+Bacteroidota,rumen_bacteria,976.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=976,NCBI Taxonomy,Bacteroidota
+Archaea,rumen_archaea,2157.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2157,NCBI Taxonomy,Archaea
+Methanobrevibacter spp.,rumen_archaea,2172.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2172,NCBI Taxonomy,Methanobrevibacter
+Ruminococcus spp.,rumen_bacteria,1263.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1263,NCBI Taxonomy,Ruminococcus
+Lachnospiraceae spp.,rumen_bacteria,186803.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=186803,NCBI Taxonomy,Lachnospiraceae
+Rikenellaceae RC9 gut group,rumen_bacteria,171550.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=171550,NCBI Taxonomy,Rikenellaceae
+Origanum vulgare,plant_species,39352.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39352,NCBI Taxonomy,Origanum vulgare
+Fucus serratus,plant_species,87148.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=87148,NCBI Taxonomy,Fucus serratus
+holotrichs,rumen_protozoa,,,NCBI Taxonomy,
+Desulfovibrio,rumen_bacteria,872.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=872,NCBI Taxonomy,Desulfovibrio
+Rugulopteryx okamurae,plant_species,639210.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=639210,NCBI Taxonomy,Rugulopteryx okamurae
+Euryarchaeota,rumen_archaea,28890.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28890,NCBI Taxonomy,Euryarchaeota
+Holotrichs,rumen_protozoa,,,NCBI Taxonomy,
+Colpomenia peregrina,plant_species,27965.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=27965,NCBI Taxonomy,Colpomenia peregrina
+Vertebrata lanosa,plant_species,1261582.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1261582,NCBI Taxonomy,Vertebrata lanosa
+Methanobacteriaceae,rumen_archaea,2159.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2159,NCBI Taxonomy,Methanobacteriaceae
+Methanosphaera stadtmane,rumen_archaea,2316.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2316,NCBI Taxonomy,Methanosphaera
+Bacteroidales,rumen_bacteria,171549.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=171549,NCBI Taxonomy,Bacteroidales
+Clostridium,rumen_bacteria,1485.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1485,NCBI Taxonomy,Clostridium
+methanogens,rumen_archaea,,,NCBI Taxonomy,
+Sargassum binderi,plant_species,127580.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=127580,NCBI Taxonomy,Sargassum binderi
+Kappaphycus striatum,plant_species,38543.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=38543,NCBI Taxonomy,Kappaphycus
+Chlamydomonas reinhardtii,plant_species,3055.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3055,NCBI Taxonomy,Chlamydomonas reinhardtii
+Gracilaria sp.,plant_species,33673.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=33673,NCBI Taxonomy,Gracilaria sp.
+Uncaria gambir,plant_species,2872617.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2872617,NCBI Taxonomy,Uncaria gambir
+macroalgae (unspecified),plant_species,,,NCBI Taxonomy,
+Sargassum cristaefolium,plant_species,129342.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=129342,NCBI Taxonomy,Sargassum cristaefolium
+Sargassum crassifolium,plant_species,127579.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=127579,NCBI Taxonomy,Sargassum crassifolium
+Enhalus acoroides,plant_species,55455.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=55455,NCBI Taxonomy,Enhalus acoroides
+Thallus laminariae,plant_species,,,NCBI Taxonomy,
+Proteobacteria,rumen_bacteria,1224.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1224,NCBI Taxonomy,Proteobacteria
+Bacteroidetes,rumen_bacteria,200643.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=200643,NCBI Taxonomy,Bacteroidetes
+Halymenia sp.,plant_species,1864487.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1864487,NCBI Taxonomy,Halymenia sp.
+Caulerpa racemosa,plant_species,76317.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=76317,NCBI Taxonomy,Caulerpa racemosa
+Gracilaria coronopifolia,plant_species,439548.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=439548,NCBI Taxonomy,Gracilaria coronopifolia
+Ulva lactuca,plant_species,63410.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=63410,NCBI Taxonomy,Ulva lactuca
+Colaconema spp.,plant_species,173032.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=173032,NCBI Taxonomy,Colaconema
+Ceramium spp.,plant_species,31380.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31380,NCBI Taxonomy,Ceramium
+Pylaiella litoralis,plant_species,2882.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2882,NCBI Taxonomy,Pylaiella
+Haematococcus pluvialis,plant_species,44745.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=44745,NCBI Taxonomy,Haematococcus pluvialis
+Porphyridium purpureum,plant_species,35688.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=35688,NCBI Taxonomy,Porphyridium purpureum
+Sargassum mcclurei,plant_species,127576.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=127576,NCBI Taxonomy,Sargassum mcclurei
+Methanomicrobium,rumen_archaea,2204.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2204,NCBI Taxonomy,Methanomicrobium
+Lachnospiraceae_NK3A20_group,rumen_bacteria,,,NCBI Taxonomy,
+Saccharofermentans,rumen_bacteria,1200657.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1200657,NCBI Taxonomy,Saccharofermentans
+Sargassum sp.,plant_species,74090.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=74090,NCBI Taxonomy,Sargassum sp.
+Padina sp.,plant_species,2010982.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2010982,NCBI Taxonomy,Padina sp.
+Turbinaria ornata,plant_species,86657.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=86657,NCBI Taxonomy,Turbinaria ornata
+Boergesenia forbesii,plant_species,204412.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=204412,NCBI Taxonomy,Boergesenia forbesii
+Palmaria palmata,plant_species,2822.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2822,NCBI Taxonomy,Palmaria palmata
+Gelidium sp.,plant_species,31407.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31407,NCBI Taxonomy,Gelidium sp.
+Halymenia durvillei,plant_species,313575.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313575,NCBI Taxonomy,Halymenia durvillei
+Gracilaria verrucosa,plant_species,172976.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=172976,NCBI Taxonomy,Gracilaria verrucosa
+Eucheuma cottonii,plant_species,88409.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=88409,NCBI Taxonomy,Eucheuma cottonii
+Gracilaria gigas,plant_species,298875.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=298875,NCBI Taxonomy,Gracilaria gigas
+Eucheuma spinosum,plant_species,305493.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=305493,NCBI Taxonomy,Eucheuma spinosum
+Palisada perforate (Bory) K.W.Nam,plant_species,470589.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470589,NCBI Taxonomy,Palisada
+Asparagopsis spp.,plant_species,31366.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31366,NCBI Taxonomy,Asparagopsis
+brown seaweeds,plant_species,,,NCBI Taxonomy,
+red seaweeds,plant_species,,,NCBI Taxonomy,
+green seaweeds,plant_species,,,NCBI Taxonomy,
+Red seaweeds,plant_species,,,NCBI Taxonomy,
+Brown seaweeds,plant_species,,,NCBI Taxonomy,
+Green seaweeds,plant_species,,,NCBI Taxonomy,
+Methanomethylophilaceae,rumen_archaea,2517203.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2517203,NCBI Taxonomy,Methanomethylophilaceae
+Euptilota formisissima,plant_species,159509.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=159509,NCBI Taxonomy,Euptilota
+Plocamium cirrhosum,plant_species,321255.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=321255,NCBI Taxonomy,Plocamium cirrhosum
+Vidalia colensoi,plant_species,228267.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=228267,NCBI Taxonomy,Vidalia colensoi
+Ecklonia radiata,plant_species,309355.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=309355,NCBI Taxonomy,Ecklonia radiata
+Ulva sp. B,plant_species,3118.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3118,NCBI Taxonomy,Ulva
+Eisenia bicyclis,plant_species,6395.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6395,NCBI Taxonomy,Eisenia bicyclis
+Ruminococcus albus,rumen_bacteria,1264.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1264,NCBI Taxonomy,Ruminococcus albus
+ciliate-associated methanogens,rumen_archaea,,,NCBI Taxonomy,
+Halidrys siliquosa,plant_species,74466.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=74466,NCBI Taxonomy,Halidrys siliquosa
+Chaetomorpha filum,plant_species,3185.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3185,NCBI Taxonomy,Chaetomorpha
+Dumontia carnosa,plant_species,423252.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=423252,NCBI Taxonomy,Dumontia
+Ceramium tenuicorne,plant_species,203700.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203700,NCBI Taxonomy,Ceramium tenuicorne
+Schinopsis quebracho-colorado,plant_species,263467.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=263467,NCBI Taxonomy,Schinopsis
+E. coli,rumen_bacteria,562.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=562,NCBI Taxonomy,E. coli
+Ulva fasciata,plant_species,111617.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=111617,NCBI Taxonomy,Ulva fasciata
+Mastocarpus stellatus,plant_species,29227.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29227,NCBI Taxonomy,Mastocarpus stellatus
+Porphyra sp.,plant_species,2790.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2790,NCBI Taxonomy,Porphyra sp.
+Cladophora rupestris,plant_species,34133.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=34133,NCBI Taxonomy,Cladophora rupestris
+Acrosiphonia sp.,plant_species,2812600.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2812600,NCBI Taxonomy,Acrosiphonia sp.
+Laminaria longicruris,plant_species,416838.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=416838,NCBI Taxonomy,Laminaria longicruris
+Furcellaria spp.,plant_species,28019.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28019,NCBI Taxonomy,Furcellaria
+stormtoss shoreweed,plant_species,,,NCBI Taxonomy,
+Gelidium amansii,plant_species,2812.0,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2812,NCBI Taxonomy,Gelidium amansii
+seaweed-based feed additive,feed_additive,,,ChEBI,
+bromoform,plant_metabolite,CHEBI:38682,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:38682,ChEBI,exact
+Laminaria japonica enzymatic hydrolysates,feed_additive,,,ChEBI,
+Brominata,feed_additive,,,ChEBI,
+phlorotannins,plant_metabolite,CHEBI:71222,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:71222,ChEBI,exact
+peptide,plant_metabolite,CHEBI:16670,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16670,ChEBI,exact
+ammonia-nitrogen,plant_metabolite,CHEBI:16134,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16134,ChEBI,exact
+condensed tannins,plant_metabolite,CHEBI:27108,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:27108,ChEBI,exact
+saponins,plant_metabolite,CHEBI:26605,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:26605,ChEBI,exact
+polyphenol,plant_metabolite,CHEBI:26195,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:26195,ChEBI,exact
+phloroglucinol,plant_metabolite,CHEBI:16204,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16204,ChEBI,exact
+H2,plant_metabolite,CHEBI:18276,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18276,ChEBI,exact
+13(S)-HOTrE,plant_metabolite,CHEBI:84441,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:84441,ChEBI,exact
+9(S)-HOTrE,plant_metabolite,CHEBI:747158,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:747158,ChEBI,exact
+sunflower oil,feed_additive,CHEBI:754020,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:754020,ChEBI,exact
+phlorofucofuroeckol-A,plant_metabolite,CHEBI:65790,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:65790,ChEBI,exact
+dieckol,plant_metabolite,CHEBI:65769,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:65769,ChEBI,exact
+"8,8'-bieckol",plant_metabolite,CHEBI:65769,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:65769,ChEBI,exact
+canola oil,feed_additive,CHEBI:83630,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:83630,ChEBI,exact
+Rumin8 IFA,feed_additive,,,ChEBI,
+ASP-Oil 1,feed_additive,,,ChEBI,
+ASP-Oil 2,feed_additive,,,ChEBI,
+Brominata pellets,feed_additive,,,ChEBI,
+dibromomethane,plant_metabolite,CHEBI:47077,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:47077,ChEBI,exact
+anethole,plant_metabolite,CHEBI:35616,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:35616,ChEBI,exact
+beta-himachalene,plant_metabolite,CHEBI:49210,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:49210,ChEBI,exact
+4-ethylphenol,plant_metabolite,CHEBI:49584,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:49584,ChEBI,exact
+SeaFeed,feed_additive,,,ChEBI,
+Mootral,feed_additive,,,ChEBI,
+marine seaweed polysaccharides,feed_additive,CHEBI:5181,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5181,ChEBI,exact
+Linseed oil,feed_additive,CHEBI:53159,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:53159,ChEBI,exact
+MgO nanoparticle,feed_additive,,,ChEBI,
+MgS nanoparticle,feed_additive,,,ChEBI,
+garlic oil,feed_additive,,,ChEBI,
+garlic powder,feed_additive,,,ChEBI,
+allicin,feed_additive,CHEBI:28411,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28411,ChEBI,exact
+yucca schidigera plant extract,feed_additive,,,ChEBI,
+essential oil blend,feed_additive,,,ChEBI,
+calcareous marine algae rumen buffer,feed_additive,,,ChEBI,
+calcareous marine algae rumen buffer with MgO,feed_additive,,,ChEBI,
+dibromochloromethane,plant_metabolite,CHEBI:34627,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:34627,ChEBI,exact
+chitosan,feed_additive,CHEBI:16261,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16261,ChEBI,exact
+ivy fruit extract,feed_additive,,,ChEBI,
