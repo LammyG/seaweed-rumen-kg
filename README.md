@@ -19,7 +19,11 @@ Mechanisms. Teesside University.
 3. Run notebook cells in order: 0, 1, 8, 53+
 
 ## Citation
-If you use this data or code, please cite [paper reference].
+If you use this dataset, code, or knowledge graph in your research, please cite it as:
+
+[![DOI](https://doi.org/10.5281/zenodo.21763960)
+
+> Olamide Okunola (2026) ‘LammyG/seaweed-rumen-kg: v1.1.0 - Updated validation and Benchmarking Scripts’. Zenodo. Available at: https://doi.org/10.5281/zenodo.21763960.
 
 ## License
 Data and code: CC-BY-4.0
