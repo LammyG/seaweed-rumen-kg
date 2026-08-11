@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this dataset or knowledge graph, please cite it as below."
+type: dataset
+authors:
+  - family-names: Okunola
+    given-names: Olamide
+    affiliation: Teesside University
+    email: olamide.okunola@outlook.com
+  - family-names: Wang
+    given-names: Mengyuan
+    affiliation: Teesside University
+    email: Mengyuan.Wang@tees.ac.uk
+title: "Rumen Methane Knowledge Graph: LLM-Assisted Evidence Synthesis of Seaweed-Derived Bioactives for Rumen Methane Mitigation (2015-2026)"
+version: 1.0.0
+date-released: 2026-08-11
+license: CC-BY-4.0
+repository-code: "https://github.com/LammyG/seaweed-rumen-kg"
+doi: "https://doi.org/10.5281/zenodo.21763960"
+abstract: "A 126-paper ontology-guided LLM knowledge graph covering seaweed-derived
+  bioactive mechanisms for rumen methane mitigation. Contains 513 extracted edges,
+  349 canonical nodes, and two-tier validation (pilot precision 96.4%; gold standard
+  effect direction accuracy 1.000). Three bioactive classes covered: bromoform/
+  halogenated (n=53), phlorotannin/polyphenol (n=59), and peptide/hydrolysate (n=2).
+  Search period: January 2015 to July 2026."
+keywords:
+  - rumen methane
+  - seaweed bioactives
+  - knowledge graph
+  - LLM extraction
+  - systematic review
+  - bromoform
+  - phlorotannins
+  - Asparagopsis taxiformis
+  - methane mitigation
+  - ruminant livestock
+preferred-citation:
+  type: dataset
+  authors:
+    - family-names: Okunola
+      given-names: Olamide
+      affiliation: Teesside University
+    - family-names: Wang
+      given-names: Mengyuan
+      affiliation: Teesside University
+  title: "Rumen Methane Knowledge Graph: LLM-Assisted Evidence Synthesis of Seaweed-Derived Bioactives (2015-2026)"
+  year: 2026
+  doi: "https://doi.org/10.5281/zenodo.21763960"
+  url: "https://github.com/LammyG/seaweed-rumen-kg"
